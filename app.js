@@ -1,20 +1,17 @@
-const nav = document.getElementById("nav");
+const hamb = document.querySelector(".hamb");
+const navList = document.querySelector(".menu-overlay");
 
-window.addEventListener("scroll", () => {
-  if (window.scrollY > 100) {
-    nav.classList.add("scrolled");
-  } else {
-    nav.classList.remove("scrolled");
-  }
-});
-nav.addEventListener("mouseover", (e) => {
-  if (e.target.tagName === "A") {
-    e.target.style.color = "#ccc";
-  }
+hamb.addEventListener("click", function () {
+  navList.classList.toggle("active");
+  hamb.classList.toggle("click");
 });
 
-nav.addEventListener("mouseout", (e) => {
-  if (e.target.tagName === "A") {
-    e.target.style.color = "#fff";
+// Adding keyboard accessibility
+hamb.addEventListener("keydown", function (event) {
+  if (event.key === "Enter" || event.key === " ") {
+    // Allow activation with Enter or Space
+    navList.classList.toggle("active");
+    hamb.classList.toggle("click");
+    event.preventDefault(); // Prevent default to avoid scrolling
   }
 });
