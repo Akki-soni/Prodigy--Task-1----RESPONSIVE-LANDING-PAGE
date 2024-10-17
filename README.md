@@ -7,9 +7,9 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## RESPONSIVE LANDING PAGE
+<h1> RESPONSIVE LANDING PAGE </h1>
 
-<h1> ProdigyInfotech Task 1 </h1>
+<h2> ProdigyInfotech Task 1 </h2>
 <h4> Create an interactive navigation
 menu that changes coloro style
 when scrolled or when ho ering
@@ -27,7 +27,7 @@ when a menu item is hovered over. </h4>
 
 This project features an interactive navigation menu that changes its style when the user scrolls or hovers over a menu item. The navigation menu is designed to have a fixed position, ensuring it remains visible across all pages.
 
-##Features:
+### Features:
 
 **HTML Structure: The menu is structured using HTML to create a clear and organized layout.
 **CSS Styling: The menu is styled with CSS to enhance its appearance and provide a visually appealing user interface.
