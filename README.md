@@ -7,10 +7,16 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1> RESPONSIVE LANDING PAGE </h1>
+<h1 align="center">RESPONSIVE LANDING PAGE</h1>
 
-<h2> ProdigyInfotech Task 1 </h2>
-<h4> Create an interactive navigation
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+</p>
+
+<p align="center">
+  Create an interactive navigation
 menu that changes coloro style
 when scrolled or when ho ering
 over a menu item. The nav gation
@@ -21,7 +27,8 @@ style it, and JavaScript to add
 interactivity, such as changing the
 background color or font color of
 the menu when it is scrolled or
-when a menu item is hovered over. </h4>
+when a menu item is hovered over.
+</p>
 
 <h2> Interactive Navigation Menu </h2>
 
@@ -37,4 +44,4 @@ This navigation menu enhances user experience by providing intuitive navigation 
 Related
 
 <h3>See live Demo:</h3>
-<a href = "">click me</a>
+<a href = "https://prodigy-task-1-responsive-landing-page.vercel.app/">click me</a>
