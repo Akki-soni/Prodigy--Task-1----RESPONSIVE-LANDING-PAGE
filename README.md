@@ -47,7 +47,7 @@ Related
 
 ## 🌟 Screenshots
 
-![Weather App Screenshot](/data/Screenshot2.png)
+![Landing Page Screenshot](Screenshot0.png)
 
 ## 🔗 Live Demo
 
