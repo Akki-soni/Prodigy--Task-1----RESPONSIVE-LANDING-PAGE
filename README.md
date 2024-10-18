@@ -17,9 +17,9 @@
 
 <p align="center">
   Create an interactive navigation
-menu that changes coloro style
-when scrolled or when ho ering
-over a menu item. The nav gation
+menu that changes color style
+when scrolled or when hovering
+over a menu item. The navigation
 menu should have a fixed position
 and be visible on all pages. Use
 HTML to structure the menu, CSS to
@@ -30,9 +30,11 @@ the menu when it is scrolled or
 when a menu item is hovered over.
 </p>
 
-<h2> Interactive Navigation Menu </h2>
+<h2 align="center"> Interactive Navigation Menu </h2>
 
+<p align="center">
 This project features an interactive navigation menu that changes its style when the user scrolls or hovers over a menu item. The navigation menu is designed to have a fixed position, ensuring it remains visible across all pages.
+</p>
 
 ### Features:
 
